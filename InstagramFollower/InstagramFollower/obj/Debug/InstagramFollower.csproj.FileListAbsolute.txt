@@ -1,0 +1,10 @@
+C:\Users\kadirari\source\repos\InstagramFollower\InstagramFollower\bin\Debug\InstagramFollower.exe.config
+C:\Users\kadirari\source\repos\InstagramFollower\InstagramFollower\bin\Debug\InstagramFollower.exe
+C:\Users\kadirari\source\repos\InstagramFollower\InstagramFollower\bin\Debug\InstagramFollower.pdb
+C:\Users\kadirari\source\repos\InstagramFollower\InstagramFollower\bin\Debug\WebDriver.dll
+C:\Users\kadirari\source\repos\InstagramFollower\InstagramFollower\bin\Debug\WebDriver.xml
+C:\Users\kadirari\source\repos\InstagramFollower\InstagramFollower\obj\Debug\InstagramFollower.csprojAssemblyReference.cache
+C:\Users\kadirari\source\repos\InstagramFollower\InstagramFollower\obj\Debug\InstagramFollower.csproj.CoreCompileInputs.cache
+C:\Users\kadirari\source\repos\InstagramFollower\InstagramFollower\obj\Debug\InstagramFollower.csproj.CopyComplete
+C:\Users\kadirari\source\repos\InstagramFollower\InstagramFollower\obj\Debug\InstagramFollower.exe
+C:\Users\kadirari\source\repos\InstagramFollower\InstagramFollower\obj\Debug\InstagramFollower.pdb
